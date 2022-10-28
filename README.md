@@ -12,7 +12,7 @@
 * **Lecture name:** Math for Computer Science
 * **Lecture Code:** CS115
 * **Class Code:** CS115.N11.KHTN
-* **Year:** Semester 2(2022 - 20223)
+* **Year:** Semester 1(2022 - 2023)
 * **Lecturer**:  
   - Practice - Lương Ngọc Hoàng - *hoangln@uit.edu.vn*  
 <!-- Footer -->
